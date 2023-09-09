@@ -1,4 +1,4 @@
-(https://github.com/us2ahmad/us2ahmad/blob/master/ahmadtabash.png)
+<img src="https://github.com/us2ahmad/us2ahmad/blob/master/ahmadtabash.jpg?raw=true" alt="img">
 <h1 align="center">Hi 👋, I'm Ahmad Tabash</h1>
 <h3 align="center">Back-end Developer</h3>
 
