@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=us2ahmad&label=Profile%20views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=us2ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@ I'm a passionate **Back-End Developer** and **Desktop Application Developer** wi
 - Building enterprise-grade APIs with **ASP.NET**
 - Designing and optimizing databases with **SQL Server**, **MySQL**, and **Oracle**
 - Integrating systems with RESTful services
-- Version control and collaboration using **Git** and **TFS**
+- Version control and collaboration using **Git** and **TFS`
 
 🔍 I’m always exploring new technologies and best practices to deliver high-quality code and performance.
 
