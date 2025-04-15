@@ -1,4 +1,4 @@
-<img src="https://github.com/us2ahmad/us2ahmad/blob/master/ahmadtabash.jpg?raw=true" alt="Ahmad Tabash" width="200" align="center"/>
+<img src="https://github.com/us2ahmad/us2ahmad/blob/master/ahmadtabash.jpg?raw=true" alt="Ahmad Tabash"/>
 
 <h1 align="center">🚀 Turning Ideas into Scalable Back-End Solutions</h1>
 <h3 align="center">👨‍💻 Back-End & Desktop Developer | ASP.NET & Laravel Enthusiast</h3>
