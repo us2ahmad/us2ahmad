@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=us2ahmad&label=Profile%20views&color=0e75b6&style=flat)
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -97,10 +101,22 @@ I'm a passionate **Back-End Developer** and **Desktop Application Developer** wi
 
 ---
 
+## 🏆 GitHub Trophy Cabinet
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=us2ahmad&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/us2ahmad/us2ahmad/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 💬 Testimonials
 
 > "Ahmad is a detail-oriented developer with a knack for solving complex backend issues. Highly recommended!"  
-> — Client Al-AqsaTech 
+> — Client Al-AqsaTech
 
 ---
 
